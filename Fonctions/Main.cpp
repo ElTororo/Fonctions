@@ -10,7 +10,7 @@ int composant1(int p1, int p2)
 
 int composant2(int p1, int p2)
 {
-	return p1*p2;
+	return p1*p2*p1;
 }
 
 int main(int argc, char * argv)
